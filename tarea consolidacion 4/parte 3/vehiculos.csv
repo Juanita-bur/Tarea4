@@ -1,0 +1,4 @@
+<class 'clase.AutomovilParticular'>,"{'marca': 'Ford', 'modelo': 'Fiesta', 'numero_de_ruedas': 4, 'cilindrada': '180', 'velocidad': '500', 'numero_puestos': 5}"
+<class 'clase.AutomovilCarga'>,"{'marca': 'Daft Trucks', 'modelo': 'G 38', 'numero_de_ruedas': 10, 'cilindrada': 120, 'velocidad': '1000', 'peso_carga': '20000'}"
+<class 'clase.Bicicleta'>,"{'marca': 'Shimano', 'modelo': 'MT Ranger', 'numero_de_ruedas': 2, 'tipo': 'Carrera'}"
+<class 'clase.Motocicleta'>,"{'marca': 'BMW', 'modelo': 'F800s', 'numero_de_ruedas': 2, 'tipo': 'Deportiva', 'nro_radios': 21, 'cuadro': 'DobleViga', 'motor': '2T'}"
